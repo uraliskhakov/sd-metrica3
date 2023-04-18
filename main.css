@@ -256,7 +256,7 @@ a.btn {
         180deg,
         rgba(0, 0, 0, 0) 0.52%, 
         rgba(0, 0, 0, 0.4) 82.81%), 
-        url(resourses/1.png);
+        url(resourses/bigbed.png);
         background-position: 50%;
     background-size: cover;
 }
